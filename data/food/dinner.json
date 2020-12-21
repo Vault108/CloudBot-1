@@ -1,41 +1,40 @@
 {
     "templates": [
-        "thinks {user} should make {main} with a side of {side} and for dessert {dessert}!"
+        "make {user} some {main} with a side of {side} and for dessert {dessert}!"
     ],
     "parts": {
         "main": [
-            "Steak",
-            "Pizza",
-            "Soup",
-            "Meatloaf",
-            "Pulled Pork",
-            "Chicken Potpie",
-            "Salad",
-            "Lobster",
-            "Crab Legs",
-            "Salmon",
-            "Tuna Fish",
-            "Grilled Chicken",
-            "Grilled Cheese"
+            "steak",
+            "pizza",
+            "soup",
+            "meatloaf",
+            "pulled Pork",
+            "chicken Potpie",
+            "salad",
+            "lobster",
+            "crab legs",
+            "salmon",
+            "tuna fish",
+            "grilled chicken",
+            "grilled cheese"
         ],
         "side": [
-            "A Baguette",
-            "Applesauce",
-            "Corn",
-            "Green Beans",
-            "French Fries",
-            "A Baked Potato",
-            "Mashed Potatos",
-            "Corn",
-            "Carrots",
-            "Peas"
+            "a baguette",
+            "applesauce",
+            "corn",
+            "green Beans",
+            "french fries",
+            "a baked potato",
+            "mashed potatos",
+            "carrots",
+            "peas"
         ],
         "dessert": [
-            "Chocolate Cake",
-            "Apple Pie",
-            "Ice Cream",
-            "Cheesecake",
-            "Key Lime Pie"
+            "chocolate cake",
+            "apple pie",
+            "ice cream",
+            "cheesecake",
+            "key lime pie"
         ]
     }
 }
