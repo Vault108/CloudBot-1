@@ -1,6 +1,6 @@
 {
     "templates": [
-        "make {user} some {main} with a side of {side} and for dessert {dessert}!"
+        "makes {user} some {main} with a side of {side} and for dessert {dessert}!"
     ],
     "parts": {
         "main": [
