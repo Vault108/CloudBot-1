@@ -59,7 +59,7 @@ BASIC_FOOD = (
     BasicFood("halal", "food", "halal", "halaal"),
     BasicFood("kosher", "food"),
     BasicFood("birthday", "birthday cake"),
-    BasicFood("dinner", "din","dindin"),
+    BasicFood("dinner", "dinner", file="dinner.json"),
 )
 
 basic_food_data = defaultdict(dict)

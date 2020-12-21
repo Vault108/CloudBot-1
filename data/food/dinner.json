@@ -1,6 +1,6 @@
 {
     "templates": [
-        "thinks {user} should make {main} with {side} and for {dessert}!"
+        "thinks {user} should make {main} with a side of {side} and for dessert {dessert}!"
     ],
     "parts": {
         "main": [
