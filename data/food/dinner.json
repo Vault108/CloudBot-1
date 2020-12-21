@@ -1,0 +1,41 @@
+{
+    "templates": [
+        "thinks {user} should make {main} with {side} and for {dessert}!"
+    ],
+    "parts": {
+        "main": [
+            "Steak",
+            "Pizza",
+            "Soup",
+            "Meatloaf",
+            "Pulled Pork",
+            "Chicken Potpie",
+            "Salad",
+            "Lobster",
+            "Crab Legs",
+            "Salmon",
+            "Tuna Fish",
+            "Grilled Chicken",
+            "Grilled Cheese"
+        ],
+        "side": [
+            "A Baguette",
+            "Applesauce",
+            "Corn",
+            "Green Beans",
+            "French Fries",
+            "A Baked Potato",
+            "Mashed Potatos",
+            "Corn",
+            "Carrots",
+            "Peas"
+        ],
+        "dessert": [
+            "Chocolate Cake",
+            "Apple Pie",
+            "Ice Cream",
+            "Cheesecake",
+            "Key Lime Pie"
+        ]
+    }
+}
