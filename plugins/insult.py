@@ -9,7 +9,7 @@ def get_data(url, reply, bot, params=None):
         r = requests.get(url, headers={'User-Agent': bot.user_agent}, params=params)
         r.raise_for_status()
     except HTTPError:
-        reply("an error ha occurred.")
+        reply("an error has occurred.")
         raise
 
     return r
